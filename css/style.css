@@ -1,0 +1,123 @@
+body{
+    overflow-x: hidden;
+}
+.numbergasimg{
+    height:350px ;
+    width: 480px;
+    background-color: #F5F5F5;
+    margin-left: 600px;
+    margin-top: 250px;
+}
+
+.box-one h2{
+    font-size: 40px;
+    text-align: center;
+  
+}
+
+.input1{
+    display: block;
+    width: 450px;
+    margin-left: 10px;
+    height: 30px;
+    margin-top: 50px;
+    border-radius: 100px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.btn1{
+    margin-top: 30px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 100px;
+    margin-left: 35%;
+    color: #F5F5F5;
+    background-color: #7041D3;
+    
+}
+
+/* box 2 */
+.box-two{
+    display: none;
+}
+.box-two h2{
+    font-size: 40px;
+    text-align: center;
+  
+}
+
+.input2{
+    display: block;
+    width: 450px;
+    margin-left: 10px;
+    height: 30px;
+    margin-top: 50px;
+    border-radius: 100px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.btn2{
+    margin-top: 30px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 100px;
+    margin-left: 35%;
+    color: #F5F5F5;
+    background-color: #7041D3;
+    
+}
+
+
+/* box 3 */
+.box-three{
+    display: none;
+}
+.box-three h2{
+    font-size: 40px;
+    text-align: center;
+  
+}
+
+.input3{
+    display: block;
+    width: 450px;
+    margin-left: 10px;
+    height: 30px;
+    margin-top: 50px;
+    border-radius: 100px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.btn3{
+    margin-top: 30px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 100px;
+    margin-left: 35%;
+    color: #F5F5F5;
+    background-color: #7041D3;
+    
+}
+
+
+.error{
+    font-size: 25px;
+    margin-top: 15px;
+    text-align: center;
+    color: tomato;
+    background-color: #fff;
+    
+}
+.box-three h3{
+    text-align: center;
+    font-size: 25px;
+    color: chocolate;
+}
+.chance{
+   
+    font-size: 30px;
+    color: black;
+}
